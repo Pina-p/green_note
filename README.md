@@ -1,4 +1,5 @@
 Introduction
+
 This app uses room database with mvvm architecture to store data for notes and user 
 accounts. You can create your own notes that will help you to write your thoughts, work 
 related task and anything which you will need in future and share it with others.
@@ -6,11 +7,11 @@ related task and anything which you will need in future and share it with others
 Functions & Features
 
 Sign in/Sign up
-    This app doesn't allow you to create user account without correct email.
+This app doesn't allow you to create user account without correct email.
 Password should be at least 6 characters. User can log in with correct email and password.
 
 Main
-    This will show note data related to user account that has been 
+This will show note data related to user account that has been 
 logged in. Data will be shown according to created date in descending order. User can also 
 search desired note by its title. There is user profile image at the right top when
 you click it, it will go to user profile setting.
