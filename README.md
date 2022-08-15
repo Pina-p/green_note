@@ -20,7 +20,7 @@ Create Note
 1. favourable colors 
 2. Image
 3. Web url which has url validation check
-    User can also update, delete and duplicate notes. There is also an option to share
+User can also update, delete and duplicate notes. There is also an option to share
 your notes with others.
 
 Profile Setting
