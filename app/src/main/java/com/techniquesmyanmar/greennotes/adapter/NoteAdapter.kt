@@ -54,7 +54,7 @@ class NoteAdapter(
                 listener!!.onClicked(noteList[position].id!!,noteList[position].color)
 
             }
-
+//this is written by KPSA for test
         }
 
     }
